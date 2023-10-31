@@ -1,0 +1,20 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw8-answer-and-repeat.txt == @@@@@@@@@@@@@@@
+
+
+|*|PUZZLE|*|
+
+Do you wish to play a puzzle? (1 for yes, 0 for no)...
+
+Salutations, my friends. Thank you for playing.
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw8-invalid-option.txt == @@@@@@@@@@@@@@@
+
+
+|*|PUZZLE|*|
+
+Do you wish to play a puzzle? (1 for yes, 0 for no)...
+
+Salutations, my friends. Thank you for playing.

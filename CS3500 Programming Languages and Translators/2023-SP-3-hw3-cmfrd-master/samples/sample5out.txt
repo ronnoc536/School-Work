@@ -1,0 +1,4 @@
+TOKEN: K_PRINT       LEXEME: PRINT
+TOKEN: K_PRINT       LEXEME: PRINT
+ERROR: In line 1 with token 'PRINT'
+INVALID!

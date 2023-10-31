@@ -1,0 +1,8 @@
+WHILE a # b DO
+  IF a > b  THEN
+    a := a - b
+  ELSE
+    b := b - a
+  ENDIF
+ENDW ;
+PRINT ( "Hello" & "World!" )

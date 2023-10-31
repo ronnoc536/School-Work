@@ -1,0 +1,13 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw5-4.txt == @@@@@@@@@@@@@@@
+
+
+Welcome to the Mid-Life Crisis Simulator
+Please enter a minimum vale of blocks: Please enter a maximum vale of blocks: The adult gets to casino 90.26% of the time with 4 blocks.
+The adult gets to casino 84.88% of the time with 5 blocks.
+The adult gets to casino 78.97% of the time with 6 blocks.
+The adult gets to casino 73.82% of the time with 7 blocks.
+The adult gets to casino 69.83% of the time with 8 blocks.
+The adult gets to casino 65.25% of the time with 9 blocks.
+The adult gets to casino 60.15% of the time with 10 blocks.

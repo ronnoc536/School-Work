@@ -1,0 +1,38 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw2-bound-check.txt == @@@@@@@@@@@@@@@
+
+
+                Bart's Security Service Analyzer
+
+
+Enter code: 
+The code 1 is invalid; try again: 
+The code 123456 is invalid; try again: The code 12345 means: 
+Translate another code (y/n)? _ 
+..........signing off.....ciao for now
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw2-lisa-and-soda-test.txt == @@@@@@@@@@@@@@@
+
+
+                Bart's Security Service Analyzer
+
+
+Enter code: The code 96877 means: Lisa is trying to report Bart
+Translate another code (y/n)? _ Enter code: The code 12245 means: drank too much Duff Soda and is throwing up in the bathroom
+Translate another code (y/n)? _ 
+..........signing off.....ciao for now
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw2-sample.txt == @@@@@@@@@@@@@@@
+
+
+                Bart's Security Service Analyzer
+
+
+Enter code: The code 15344 means: card counter is under the table
+Translate another code (y/n)? _ Enter code: 
+The code 4255 is invalid; try again: The code 73843 means: Lisa is trying to report Bart
+Translate another code (y/n)? _ 
+..........signing off.....ciao for now

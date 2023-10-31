@@ -1,0 +1,135 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-invalid.txt == @@@@@@@@@@@@@@@
+
+
+     Bart's Morse Code Translator
+         Software Courtesy of:
+         B(art) S(impson)  inc.
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Please enter a single character: Please enter a single character:     TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Morse: -...
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+
+98
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw4-normal.txt == @@@@@@@@@@@@@@@
+
+
+     Bart's Morse Code Translator
+         Software Courtesy of:
+         B(art) S(impson)  inc.
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Please enter a single character:     TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Morse: -..
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+
+100
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Please enter a single character:     TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+Morse: -..
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+
+68
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  
+I    ..
+L    .-..
+Z    --..
+K    -.-
+
+R    .-.
+S    ...
+M    --
+
+H    ....
+P    .--.
+I    ..
+W    .--
+
+    TRANSLATE
+    ---------
+1. Enter a character (alphabetic)
+2. Morse code equivalent
+3. ASCII value
+4. Secret Message
+5. Kwit
+Your Choice:  

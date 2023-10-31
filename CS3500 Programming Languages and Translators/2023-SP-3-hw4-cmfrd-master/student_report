@@ -1,0 +1,34 @@
+cmfrd REPORT 
+********************************************
+************************  RUN   ************************
+------- Run #1 ------
+CORRECT
+------- Run #2 ------
+CORRECT
+------- Run #3 ------
+CORRECT
+------- Run #4 ------
+CORRECT
+------- Run #5 ------
+CORRECT
+------- Run #6 ------
+CORRECT
+------- Run #7 ------
+CORRECT
+------- Run #8 ------
+INVALID!
+Error: ":=" expected, got ":-"
+------- Run #9 ------
+INVALID!
+Error: ":=" expected, got "c"
+------- Run #10 ------
+CORRECT
+------- Run #11 ------
+INVALID!
+Error: ":=" expected, got "c"
+------- Run #12 ------
+INVALID!
+Error: ":=" expected, got "c"
+------- Run #13 ------
+CORRECT
+**************************  Done! 

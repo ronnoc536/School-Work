@@ -1,0 +1,15 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw1.txt == @@@@@@@@@@@@@@@
+
+
+                 Welcome to Bart's Sugar Monster Calculator
+Please enter the following:
+        Number of people gambling:     
+        Their average weight:          
+        Lunch money index:             
+Thanks.  What you need is....
+       111.06 lbs. of sugar is needed for the day
+         This is equivalent to 37 bottles of Duff Soda
+....You have been using another awesome Bart-SoftTM
+ product. Have a nice day.

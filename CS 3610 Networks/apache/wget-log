@@ -1,0 +1,11 @@
+--2023-10-09 19:58:00--  http://localhost/dir/hello_web.html
+Resolving localhost (localhost)... 127.0.0.1, ::1
+Connecting to localhost (localhost)|127.0.0.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168 [text/html]
+Saving to: ‘your_outputs/out_wget.html’
+
+     0K                                                       100% 13.9M=0s
+
+2023-10-09 19:58:00 (13.9 MB/s) - ‘your_outputs/out_wget.html’ saved [168/168]
+
