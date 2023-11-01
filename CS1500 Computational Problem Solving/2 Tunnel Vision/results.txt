@@ -1,0 +1,22 @@
+Summary of tests follows, in recommended order of completion:
+
+Test for: stdio_tests/inputs/crash1_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/lap2crash_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/restartVictory_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/victory_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: static analysis / typechecking
+[32m    gives you 100 more points(B[m
+
+Test for: auto-format style check
+[32m    gives you 100 more points(B[m
+
+Your total grade is:
+100

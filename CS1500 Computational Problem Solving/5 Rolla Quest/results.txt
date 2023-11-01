@@ -1,0 +1,43 @@
+Summary of tests follows, in recommended order of completion:
+
+Test for: 00_mask_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 01_to_follow_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 02_policedrone_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 03_policedrone_in_range_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 04_anticipher_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 05_anticipher_in_range_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 06_adminsmith_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 07_adminsmith_in_range_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 08_adminsmith_multiple_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 09_theoracle_move_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 10_theoracle_dir_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: static analysis / typechecking
+[32m    gives you 100 more points(B[m
+
+Test for: auto-format style check
+[32m    gives you 100 more points(B[m
+
+Your total grade is:
+100

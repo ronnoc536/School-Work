@@ -1,0 +1,49 @@
+Summary of tests follows, in recommended order of completion:
+
+Test for: 0_build_matrix_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: 111100_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: dotter_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: egg_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: jump_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: matrix_search_test.py
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/basic_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/diagonal_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/extended_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/horizontal_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/multi_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/vertical_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: static analysis / typechecking
+[31m    gives you 0 more points(B[m
+
+Test for: auto-format style check
+[32m    gives you 100 more points(B[m
+
+Test for: custom_test_1_randomized_search
+[31m    gives you 0 more points(B[m
+
+Your total grade is:
+86

@@ -1,0 +1,31 @@
+Summary of tests follows, in recommended order of completion:
+
+Test for: unit_test_1.py
+    passed and gives you 100 more points
+
+Test for: stdio_tests/inputs/test_1_input.txt
+    passed and gives you 100 more points
+
+Test for: stdio_tests/inputs/test_2_input.txt
+    passed and gives you 100 more points
+
+Test for: static analysis / typechecking
+    passed and gives you 100 more points
+
+Test for: auto-format style check
+    passed and gives you 100 more points
+
+Test for: custom_test_sh_stdio_diff
+    passed and gives you 100 more points
+
+Test for: custom_test_stdio_diff
+    passed and gives you 100 more points
+
+Test for: custom_test_tracing_pudb
+    passed and gives you 100 more points
+
+Test for: custom_test_tracing_spyder
+    passed and gives you 100 more points
+
+Your grade is:
+100

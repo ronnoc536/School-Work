@@ -1,0 +1,46 @@
+Welcome to m-n-k game!
+
+Enter number of rows, m: 
+Enter number of columns, n: 
+Where k should be greater than 2 and should not be greater than m or n,
+enter run length to win, k: 
+Do you want to be X or O?
+The human player will go first.
+
+  0 1 2
+0| | | |
+1| | | |
+2| | | |
+What is your next move? (0-2, 0-2)
+
+  0 1 2
+0| | | |
+1| | |O|
+2| |X| |
+What is your next move? (0-2, 0-2)
+
+  0 1 2
+0| | |X|
+1| | |O|
+2| |X|O|
+What is your next move? (0-2, 0-2)
+
+  0 1 2
+0|X| |X|
+1| |O|O|
+2| |X|O|
+What is your next move? (0-2, 0-2)
+
+  0 1 2
+0|X|O|X|
+1|X|O|O|
+2| |X|O|
+What is your next move? (0-2, 0-2)
+
+  0 1 2
+0|X|O|X|
+1|X|O|O|
+2|O|X|O|
+The game is a tie!
+
+Do you want to play again? (y or n)

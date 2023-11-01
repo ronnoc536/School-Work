@@ -1,0 +1,55 @@
+Summary of tests follows, in recommended order of completion:
+
+Test for: 00_input_player_letter.py
+[32m    gives you 100 more points(B[m
+
+Test for: 01_draw_board.py
+[32m    gives you 100 more points(B[m
+
+Test for: 02_is_space_free.py
+[32m    gives you 100 more points(B[m
+
+Test for: 03_get_player_move.py
+[32m    gives you 100 more points(B[m
+
+Test for: 04_make_move.py
+[32m    gives you 100 more points(B[m
+
+Test for: 05_get_empty_spaces.py
+[32m    gives you 100 more points(B[m
+
+Test for: 06_check_across.py
+[32m    gives you 100 more points(B[m
+
+Test for: 07_check_down.py
+[32m    gives you 100 more points(B[m
+
+Test for: 08_check_diagonal_left.py
+[32m    gives you 100 more points(B[m
+
+Test for: 09_check_diagonal_right.py
+[32m    gives you 100 more points(B[m
+
+Test for: 10_is_board_full.py
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/00_player_win_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/01_ai_win_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/02_game_tie_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: stdio_tests/inputs/03_player_win_ai_win_input.txt
+[32m    gives you 100 more points(B[m
+
+Test for: static analysis / typechecking
+[32m    gives you 100 more points(B[m
+
+Test for: auto-format style check
+[32m    gives you 100 more points(B[m
+
+Your total grade is:
+100

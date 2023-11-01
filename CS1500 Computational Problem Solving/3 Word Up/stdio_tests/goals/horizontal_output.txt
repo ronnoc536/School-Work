@@ -1,0 +1,9 @@
+Searching for "ear" in matrix 0 yields:
+Start pos: (2, 0) to End pos: (2, 2)
+
+Searching for "bear" in matrix 1 yields:
+Start pos: (2, 3) to End pos: (2, 0)
+
+Searching for "joys" in matrix 2 yields:
+The pattern was not found.
+

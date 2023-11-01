@@ -1,0 +1,28 @@
+3
+
+5 5
+e j g c q
+p y r h p
+u v e v r
+u q e h d
+x l n y q
+green
+
+6 6
+p j r r n m
+j k s e i d
+y c c g k i
+m h z n s l
+q q o i r t
+k p z g k s
+ginger
+
+7 7
+f g u w s b i
+d p z d p n y
+x e s s m m h
+i a c j e b n
+i i u o g v y
+u d x j p f k
+n l t a s d j
+special

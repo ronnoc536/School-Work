@@ -1,0 +1,9 @@
+Searching for "green" in matrix 0 yields:
+Start pos: (0, 2) to End pos: (4, 2)
+
+Searching for "ginger" in matrix 1 yields:
+Start pos: (5, 3) to End pos: (0, 3)
+
+Searching for "special" in matrix 2 yields:
+The pattern was not found.
+

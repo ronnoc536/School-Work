@@ -1,0 +1,41 @@
+4
+
+4 6
+j w q d p t
+b i l a b r
+k g q z u t
+l o a p t e
+old
+
+4 4
+r a w q
+v l y t
+e s o r
+v p a e
+rose
+
+11 11
+s b l c q e g i q i s
+q n n x u r g x o w k
+y p z z m g g w p o i
+m r a h d r p m z e k
+e o i h e d l a a a v
+z w p z l y m u d i e
+p e r m t l r r e x j
+e f l h a m c i h a f
+t j l o c w u o y g e
+h s e w e q v v b g c
+s r k l u k x f x c j
+delta
+
+9 5
+h d f u s
+p v d x p
+e h f u b
+q e g w a
+j b f e x
+p o t e x
+b h y u z
+e n o e t
+x m n p l
+tea
