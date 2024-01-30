@@ -1,0 +1,21 @@
+[package]
+name = "pa01_crabby-caesar"
+version = "0.1.0"
+authors = ["Taylor <taylorpat@umsystem.edu>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "program"
+path = "src/main.rs"
+
+[[bin]]
+name = "unit_test_01"
+path = "unit_tests/unit_test_01.rs"
+
+[[bin]]
+name = "unit_test_02"
+path = "unit_tests/unit_test_02.rs"
+
+[dependencies]
