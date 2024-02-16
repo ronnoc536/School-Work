@@ -1,0 +1,1 @@
+grader_keyfile.sec 04 arg_tests/files/grader_enc_04_input.txt arg_tests/outputs/grader_enc_04_output.txt

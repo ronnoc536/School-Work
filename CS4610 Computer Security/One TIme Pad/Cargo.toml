@@ -1,0 +1,30 @@
+[package]
+name = "rust-OTP"
+version = "0.1.0"
+authors = ["Taylor <taylorpat@umsystem.edu>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "program"
+path = "src/encrypt.rs"
+
+[[bin]]
+name = "gen_keys"
+path = "src/generate_keys.rs"
+
+[[bin]]
+name = "unit_test_01"
+path = "unit_tests/unit_test_01.rs"
+
+[[bin]]
+name = "unit_test_02"
+path = "unit_tests/unit_test_02.rs"
+
+[[bin]]
+name = "unit_test_03"
+path = "unit_tests/unit_test_03.rs"
+
+[dependencies]
+rand = "0.8.5"
