@@ -1,0 +1,1 @@
+arg_tests/files/GLTEST2_input.txt arg_tests/outputs/GLTEST2_output.txt

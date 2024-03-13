@@ -1,0 +1,22 @@
+[package]
+name = "pa03_dh-eve"
+version = "0.1.0"
+authors = ["Taylor <taylorpat@umsystem.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "program"
+path = "src/main.rs"
+
+[[bin]]
+name = "randomized_test_baby"
+path = "unit_tests/randomized_test_baby.rs"
+
+[[bin]]
+name = "randomized_test_big"
+path = "unit_tests/randomized_test_big.rs"
+
+[dependencies]
+rand = "0.8"
